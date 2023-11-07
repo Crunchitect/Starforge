@@ -6,8 +6,8 @@ A game with procedural planets. With endless sectors, And dreams.
 Two planets! **Earth** and **Venus**
 
 ### Content
-- Earth: **144 Sectors** of Procedurally Generated Terrain
-- Venus: **144 Sectors** of Procedurally Generated Terrain
+- Earth: **244 Sectors** of Procedurally Generated Terrain
+- Venus: **244 Sectors** of Procedurally Generated Terrain
 - Procedurally Generated Planets
 - Sector Saving
 - Water Physics
